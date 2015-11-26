@@ -46,6 +46,7 @@
 						<sourceDirectory>${project.basedir}/src/main/webapp/less</sourceDirectory>
 						<outputDirectory>${project.basedir}/src/main/webapp/css</outputDirectory>
 						<compress>false</compress>
+						<force>true</force>
 						<includes>
 							<include>main.less</include>
 						</includes>
