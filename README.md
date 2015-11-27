@@ -12,4 +12,4 @@ The parent project defines the pluginManagement with the lesscss-maven-plugin wh
 To customize for your project there are a two options:
 
 1. You can fork this project and adapt it for your needs.
-2. You create a maven project and extend from parent project mvn-parent-projects like the project module simple-tmpl-less does and adapt it for your needs.
+2. You create a maven project and extend from  this parent project as the sub project module simple-tmpl-less does and adapt it for your needs.
