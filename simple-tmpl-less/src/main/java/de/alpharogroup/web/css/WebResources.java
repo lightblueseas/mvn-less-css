@@ -1,4 +1,4 @@
-package css;
+package de.alpharogroup.web.css;
 
 import java.io.Serializable;
 
