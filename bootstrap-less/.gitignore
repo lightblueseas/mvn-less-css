@@ -16,6 +16,7 @@
 /.project
 /.classpath
 /.settings
+/.externalToolBuilders
 
 #########################
 # maven generated files #
