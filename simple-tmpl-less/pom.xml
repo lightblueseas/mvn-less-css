@@ -5,11 +5,10 @@
 	<parent>
 		<groupId>de.alpharogroup</groupId>
 		<artifactId>mvn-less-css</artifactId>
-		<version>1.0.1</version>
+		<version>1.2.0</version>
 	</parent>
 
 	<artifactId>simple-tmpl-less</artifactId>
-	<version>1.1.0</version>
 
 	<build>
 
