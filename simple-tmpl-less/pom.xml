@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>de.alpharogroup</groupId>
 		<artifactId>mvn-less-css</artifactId>
-		<version>1.2.0</version>
+		<version>1.4.0-SNAPSHOT</version>
 	</parent>
 
 	<artifactId>simple-tmpl-less</artifactId>
@@ -55,6 +55,13 @@
 							<include>main-foobar.less</include>
 						</includes>
 					</configuration>
+					<executions>
+						<execution>
+							<goals>
+								<goal>compile</goal>
+							</goals>
+						</execution>
+					</executions>
 				</plugin>
 
 			</plugins>
