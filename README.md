@@ -12,11 +12,11 @@ The parent project defines the pluginManagement with the lesscss-maven-plugin wh
 To customize for your project there are a two options:
 
 1. You can fork this project and adapt it for your needs.
-2. You create a maven project and extend from  this parent project as the sub project module simple-tmpl-less does and adapt it for your needs.
+2. You create a maven project and extend from  this parent project as the sub project module simple-tmpl-less does and adapt it for your needs. There are two module projects that do exactly this. First project is the bootstrap-less that contains the less files from the bootstrap css and js for version 3.3.5. And the second project is a very simple project that starts from scratch and can be extended to your needs.
 
 ## License
 
-The source code comes under the liberal Apache License V2.0, making mvn-less-css great for all types of java web  applications.
+The source code comes under the liberal Apache License V2.0, making mvn-less-css great for all types of java web applications.
 
 ## Want to Help and improve it? ###
 
