@@ -24,7 +24,7 @@ The source code for mvn-less-css are on GitHub. Please feel free to fork and sen
 
 Create your own fork of [lightblueseas/mvn-less-css/fork](https://github.com/lightblueseas/mvn-less-css/fork)
 
-To share your changes, [submit a pull request](https://github.com/lightblueseas/mvn-less-css/pull/new/master).
+To share your changes, [submit a pull request](https://github.com/lightblueseas/mvn-less-css/pull/new/develop).
 
 ## Contacting the Developers
 
